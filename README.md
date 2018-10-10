@@ -1,3 +1,3 @@
 # Ejercicios en C#
 
-[![C#](http://www.noticenter.com.br/geral/img/noticias/2017_01_30_10_41_25_image.jpg)](http://www.noticenter.com.br/geral/img/noticias/2017_01_30_10_41_25_image.jpg)
+[![C#](https://github.com/bilyfer/ejercicios/blob/master/Imagenes/csharp.jpg)](https://github.com/bilyfer/ejercicios/blob/master/Imagenes/csharp.jpg)
