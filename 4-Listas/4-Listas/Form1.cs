@@ -59,6 +59,7 @@ namespace _4_Listas
             listaNombres.Add("Mujer Maravilla");
             listaNombres.Add("Linterna Verde");
             listaNombres.Add("Cyborg");
+            listaNombres.Add("Lex Luthor");
 
             foreach (var nombre in listaNombres)
             {
