@@ -1,0 +1,6 @@
+Examen
+------
+
+1) Cree un Button para Nuevo Juego, de tal manera que al cargar el formulario o hacer click en el button se genere un nuevo juego ***5%
+2) Simplifique el código de tal forma que al hacer click en cualquier de los 16 PictureBoxes, estos ejecuten el mismo código ***5%
+3) Extra: Gane el juego en menos de 30 segundos ***1%
